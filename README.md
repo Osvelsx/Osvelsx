@@ -37,6 +37,8 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 - 🧪 Currently upskilling in **Data Engineering** — Databricks, PySpark, Delta Lake, dbt, Power BI
 - 📍 Based in **Chennai, India**
 
+- Cool websites and profile https://andrewkchan.dev -> https://github.com/andrewkchan
+
 ---
 
 ### Tech Stack
