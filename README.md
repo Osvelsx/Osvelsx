@@ -31,14 +31,13 @@ Here are some ideas to get you started:
 
 Full Stack Developer at **Estradata** / **Estralabs**, shipping production web and mobile apps across NestJS, Next.js, and React Native.
 
-- 🔭 Currently building and factorising **full-stack web** that handles around 62,000 calls per day at Estralabs.
 <!-- - 🚀 Active open source contributor — **57 merged PRs** + **103 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js undici**, **BullMQ**, **Angular CLI**, **Swagger UI**, and **Excalidraw** -->
+- 🔭 Currently building and refactoring **full-stack web** that handles around 62,000 calls per day at Estralabs.
 - 🛠️ Specializing in **TypeScript ecosystems** — NestJS, Next.js, React Native, ReactJS and developer tooling
 - 🧪 Currently upskilling in **DevOps** — Kubernetes, Linux, Cloud Computing (AWS), Servers.
-<!-- - 🧪 Currently upskilling in **Data Engineering** — Databricks, PySpark, Delta Lake, dbt, Power BI -->
 - 📍 Based in **Guadalajara, Mexico**
-
 - Cool websites and profiles - https://andrewkchan.dev -> https://github.com/andrewkchan , https://github.com/yogeshwaran-c
+<!-- - 🧪 Currently upskilling in **Data Engineering** — Databricks, PySpark, Delta Lake, dbt, Power BI -->
 
 ---
 
@@ -154,29 +153,21 @@ Full Stack Developer at **Estradata** / **Estralabs**, shipping production web a
 
 ### Featured Projects
 
-**B2B Multi-Vendor Marketplace**
-<br/>WordPress + WooCommerce + Dokan · PHP · MariaDB · Redis · Docker Compose · GitLab CI/CD · Apache · LiteSpeed
-<br/>B2B marketplace with reverse auction bidding, KYC/seller verification, AI-powered product creation (AWS Lambda), live chat, and dispute management. 17+ custom WordPress plugins, full Docker Compose infra, and a backup → deploy → rollback CI/CD pipeline.
+**MAVI - AI Debt Recovery Platform**
+<br/>NestJS · Node.js · TypeScript · Docker · Microservices · Coolify (AWS Alternative) · DevOps · Data Analytics 
+<br/>Enterprise AI platform powering voice agents and data analytics for **Muebles América**. Automates 70% of outgoing collection calls, drives a 10% increase in live client connection rates, enforces rigid point-to-point data security, and serves real-time executive summary dashboards with live KPI tracking.
 
-**Conversational Commerce Bot**
-<br/>NestJS 11 · TypeScript · SQLite · Express 5 · Meta WhatsApp Cloud API
-<br/>Production-grade bot bridging WhatsApp Business API to a WooCommerce/Dokan marketplace. Customers browse products, manage carts, place orders, request quotes, and resolve disputes — all via WhatsApp. HMAC-SHA256 webhook verification, idempotency via SQLite, and multi-step conversation state.
+**Hora App - Conversational Booking Ecosystem**
+<br/>NestJS · React Native · Meta WhatsApp Cloud API · OpenAI · Node.js · Coolify · System Design
+<br/>B2B automated scheduling platform bridging WhatsApp conversational commerce with a cross-platform mobile application. Features an AI assistant for hands-free client bookings directly via WhatsApp chat, instant merchant queue management, real-time business performance analytics, and automated task-event logging.
 
-**Enterprise Sales & Commerce Analytics Platform**
-<br/>NestJS 10 · Next.js 15 · React 18 · PostgreSQL · Redis · Bull/BullMQ · Socket.io · D3.js · Chart.js
-<br/>Multi-channel analytics platform aggregating 8+ e-commerce and quick-commerce channels. Real-time dashboards, dynamic report builder, cohort analysis, 2FA/MFA (TOTP), CASL RBAC, and **192+ API endpoints**. IMAP-based email polling for platform verification.
+**Top Groups - Multi-Session WhatsApp CRM**
+<br/>Node.js · JavaScript · REST APIs · Docker · Automation · CSV Parsing · Auth
+<br/>Enterprise multi-tenant WhatsApp management system built for corporate beta testing. Integrates native CRUD utilities to orchestrate simultaneous active sessions, aggregating real-time analytics on community growth, contact lists, and message telemetry with seamless structured CSV export pipelines.
 
-**Cross-Platform Fitness Ecosystem**
-<br/>NestJS 10 · React Native + Expo 51 · Next.js 15 · PostgreSQL · Socket.io · OpenAI GPT-4o
-<br/>Mobile app, admin dashboard, and marketing website for a fitness platform. Trainer bookings, workout planning, AI coaching (GPT-4o), social fitness (buddy system), real-time messaging, payment processing, and push notifications.
-
-**Health & Wellness Mobile App**
-<br/>NestJS 10 · Angular 18 · Ionic 8 · Capacitor 6 · MySQL · Keycloak SSO · Firebase
-<br/>Hybrid mobile app for hydration tracking, step counting, and health goal management with Keycloak-based SSO and Firebase push notifications.
-
-**Enterprise Data Warehouse** *(Learning)*
-<br/>Databricks · PySpark · Scala · Delta Lake · dbt · Azure ADLS · Power BI · Dynatrace
-<br/>Medallion architecture (Bronze → Silver → Gold) powering executive Power BI dashboards in the insurance domain. SCD Type 1/2, Delta Lake optimizations (OPTIMIZE, VACUUM, Z-ORDER), and Databricks Asset Bundles for IaC. Currently upskilling in this domain.
+**Exact Point Survey Engine**
+<br/>Laravel · PHP · Scrum · MySQL · Front-End Development · Docker
+<br/>High-throughput web application engineered to manage high-volume event registrations, instant opinion polls, public quizzes, and targeted market surveys. Features a dynamic visual form builder and secure RBAC access controls optimized for concurrent corporate workloads.
 
 ---
 
