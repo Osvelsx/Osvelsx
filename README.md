@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 **Full Stack Developer** · Building scalable web & mobile applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruthan-g-6a7415201)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthang)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maruthang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osvel-chegizay-r%C3%ADos-rodr%C3%ADguez/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Osvelsx)
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maruthang) -->
 
 </div>
 
@@ -29,15 +29,16 @@ Here are some ideas to get you started:
 
 ### About Me
 
-Full Stack Developer at **Finstein**, shipping production web and mobile apps across NestJS, Next.js, Angular, and React Native (Expo). Previously a STEM Instructor at LMES Academy, teaching programming and robotics.
+Full Stack Developer at **Estradata** / **Estralabs**, shipping production web and mobile apps across NestJS, Next.js, and React Native.
 
-- 🔭 Currently building **full-stack web & mobile applications** at Finstein
-- 🚀 Active open source contributor — **57 merged PRs** + **103 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js undici**, **BullMQ**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
-- 🛠️ Specializing in **TypeScript ecosystems** — NestJS, Next.js, Angular, React Native, and developer tooling
-- 🧪 Currently upskilling in **Data Engineering** — Databricks, PySpark, Delta Lake, dbt, Power BI
-- 📍 Based in **Chennai, India**
+- 🔭 Currently building and factorising **full-stack web** that handles around 62,000 calls per day at Estralabs.
+<!-- - 🚀 Active open source contributor — **57 merged PRs** + **103 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js undici**, **BullMQ**, **Angular CLI**, **Swagger UI**, and **Excalidraw** -->
+- 🛠️ Specializing in **TypeScript ecosystems** — NestJS, Next.js, React Native, ReactJS and developer tooling
+- 🧪 Currently upskilling in **DevOps** — Kubernetes, Linux, Cloud Computing (AWS), Servers.
+<!-- - 🧪 Currently upskilling in **Data Engineering** — Databricks, PySpark, Delta Lake, dbt, Power BI -->
+- 📍 Based in **Guadalajara, Mexico**
 
-- Cool websites and profile https://andrewkchan.dev -> https://github.com/andrewkchan , https://github.com/yogeshwaran-c
+- Cool websites and profiles - https://andrewkchan.dev -> https://github.com/andrewkchan , https://github.com/yogeshwaran-c
 
 ---
 
@@ -50,19 +51,19 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+<!-- ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+<!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) -->
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+<!-- ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) -->
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
@@ -73,8 +74,8 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+<!-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) -->
+<!-- ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) -->
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
@@ -86,28 +87,28 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=databricks&logoColor=white)
+<!-- ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=databricks&logoColor=white) -->
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+<!-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+<!-- ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) -->
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Data Engineering** *(Currently Learning)*
+<!-- **Data Engineering** *(Currently Learning)*
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) -->
 
----
+<!-- ---
 
 ### Open Source Contributions
 
@@ -147,7 +148,7 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 <a href="https://github.com/taskforcesh/bullmq"><img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" alt="BullMQ"></a>
 <a href="https://github.com/angular/angular-cli"><img src="https://img.shields.io/badge/Angular_CLI-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular CLI"></a>
 <a href="https://github.com/swagger-api/swagger-ui"><img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger UI"></a>
-<a href="https://github.com/excalidraw/excalidraw"><img src="https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square&logo=excalidraw&logoColor=white" alt="Excalidraw"></a>
+<a href="https://github.com/excalidraw/excalidraw"><img src="https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square&logo=excalidraw&logoColor=white" alt="Excalidraw"></a> -->
 
 ---
 
@@ -181,17 +182,17 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 
 ### Experience
 
-**Full Stack Developer** — Finstein · Jul 2024 – Present
-<br/>Building production web and mobile applications across NestJS, Next.js, Angular, React Native (Expo), PostgreSQL, and Redis.
+**Full Stack Developer** — Estradata · Feb 2023 – Present · 3 yr 5 mos
+<br/>Building production web and mobile applications across NestJS, Next.js, React Native, ReactJs, PHP, Laravel, MySQL, PostgreSQL, and Redis.
 
-**STEM Instructor** — LMES Academy · Jul 2023 – Jul 2024
+**Front-End Developer — Digital Trusted Advisor · Jan 2022 – Mar 2023 · 1 yr 3 mos
 <br/>Taught programming, App development using MIT App Inventor and Python.
 
 ---
 
 ### Education
 
-**B.Tech, Information Technology** — University College of Engineering Villupuram · 2019 – 2023
+**Bachelor of Engineering - BE, Mechatronics, Robotics, and Automation Engineering** — Centro de Enseñanza Técnica Industrial · 2016 – 2019
 
 ---
 
