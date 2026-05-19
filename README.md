@@ -165,7 +165,7 @@ Full Stack Developer at **Estradata** / **Estralabs**, shipping production web a
 <br/>Node.js · JavaScript · REST APIs · Docker · Automation · CSV Parsing · Auth
 <br/>Enterprise multi-tenant WhatsApp management system built for corporate beta testing. Integrates native CRUD utilities to orchestrate simultaneous active sessions, aggregating real-time analytics on community growth, contact lists, and message telemetry with seamless structured CSV export pipelines.
 
-**Exact Point Survey Engine**
+**Exact Point Survey**
 <br/>Laravel · PHP · Scrum · MySQL · Front-End Development · Docker
 <br/>High-throughput web application engineered to manage high-volume event registrations, instant opinion polls, public quizzes, and targeted market surveys. Features a dynamic visual form builder and secure RBAC access controls optimized for concurrent corporate workloads.
 
@@ -196,6 +196,22 @@ Full Stack Developer at **Estradata** / **Estralabs**, shipping production web a
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osvelsx&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=5a5754" width="700">
 
 </div>
+
+<!-- 
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://shion.dev" height="170">
+<img src="https://shion.dev" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osvelsx&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=5a5754" width="700">
+
+</div>
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Gráfico de Actividad" />
+</p>
+-->
+
 
 ---
 
